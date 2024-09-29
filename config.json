@@ -1,0 +1,9 @@
+{
+    "subreddit_name": "AskReddit",
+    "sort_method": "top",
+    "time_frame": "week",
+    "post_limit": 4,
+    "comment_limit": 10,
+    "max_char": 300,
+    "min_char": 60
+}
