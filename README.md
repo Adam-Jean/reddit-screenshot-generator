@@ -83,6 +83,5 @@ python main.py
 
 ## 💡 Usage
 
-* Modify the filtering criteria in `reddit.py` to define which Reddit posts you want to capture (e.g., by subreddit, keyword, etc.)
-* Customize the HTML templates in `templates` to adjust the design for your specific content
-* The generated images will be saved in the `output` directory, organized by post and comments
+* Modify the filtering criteria in `configs.josn` to define which Reddit posts you want to capture (e.g., by subreddit, keyword, etc.)
+* The generated images will be saved in the `generated_images` directory (created upon execution), organized by post and comments
