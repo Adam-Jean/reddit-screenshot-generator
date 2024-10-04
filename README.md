@@ -2,7 +2,7 @@
 
 ![Alt Text](https://github.com/Adam-Jean/markdown/blob/main/ReadMe_Banner.png)
 
-This project automates the extraction of Reddit posts and renders them into custom image templates, making it easier to generate content for platforms like TikTok and Instagram. Using Python, PRAW API, and Playwright, this tool captures real-time Reddit data and converts it into proffessional and shareable images.
+This project automates the extraction of Reddit posts and renders them into custom image templates, making it easier to generate content for platforms like TikTok and Instagram. Using Python, PRAW API, and Playwright, this tool captures real-time Reddit data and converts it into professional and shareable images.
 
 ## 🚀 Features
 
