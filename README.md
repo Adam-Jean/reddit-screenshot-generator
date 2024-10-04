@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 3. **Set up your Reddit API credentials**:
    * Obtain Reddit API Key and credentials [here](https://www.reddit.com/prefs/apps/). Or see online tutorial [here](https://rymur.github.io/setup):
-   * Add your credentials to an `.env` file:
+   * Add your credentials to the `.env` file:
 ```
 REDDIT_CLIENT_ID=your-reddit-client-id
 REDDIT_SECRET_KEY=your-reddit-api-key
